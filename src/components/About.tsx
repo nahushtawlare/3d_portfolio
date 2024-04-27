@@ -53,12 +53,11 @@ const About = () => (
             variants={fadeIn('left', '', 0.1, 1)}
             className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-            I'm a skilled software developer with experience in TypeScript and
-            JavaScript, and expertise in frameworks like React, Node.js, and
-            Three.js. I'm a quick learner and collaborate closely with clients
-            to create efficient, scalable, and user-friendly solutions that
-            solve real-world problems. Let's work together to bring your ideas
-            to life!
+           As a junior .NET developer proficient in C#, ASP.NET MVC, .NET Core, and Web API,
+            along with skills in HTML, CSS, jQuery, MSSQL, JavaScript, AngularJS, and WPF, 
+            I specialize in crafting innovative solutions that address real-world challenges.
+             I'm dedicated to collaborating closely with clients to deliver efficient, scalable,
+              and user-friendly software products. Let's team up to transform your concepts into reality!
         </motion.p>
 
         <div className="mt-20 flex flex-wrap gap-10">
